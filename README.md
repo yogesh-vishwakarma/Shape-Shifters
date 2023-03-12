@@ -3,6 +3,7 @@ A team-player based card game
 
 
 
+## Video Explanation
 
 https://user-images.githubusercontent.com/42703881/224537715-5b0aa779-6c35-48fc-8f2b-bb58442cdf98.mp4
 
