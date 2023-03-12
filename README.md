@@ -17,7 +17,7 @@ The objective of "Shape Shifters" is to win a predetermined number of points by 
 2. Each player will be dealt 8 cards from the shuffled deck.
 3. There will be a decisive shape which will have high priority than other shapes for than game, but can only be used in case on current round shape is not available  for that player.
 4. One joker is included in the deck, and it will be exchanged with the lowest card in the game.
-5. Joker has the highest priority above all, and can be used any-time in the game but exept cannot be played in the first round of the game & can't be used to start a round.
+5. Joker has the highest priority above all, and can be used any-time in the game but exept cannot be played in the first and last rounds of the game & can't be used to start a round.
 3. The final card priority is as follows: JOKER, [all cards of decisive shape], ACE, king, queen, jack, then 10-2.
 
 ## Game Rounds
@@ -32,7 +32,7 @@ The objective of "Shape Shifters" is to win a predetermined number of points by 
 ## Gameplay
 1. The player who choosed the color or the player to the left of the dealer starts the game by playing a card.
 2. The other players follow suit by playing cards of the same shape or a higher priority shape if not available.
-3. The idea behind the game that it's mandetory to play the cards to ensure your team's victory.
+3. The idea behind the game that it's mandatory to play the cards to ensure your team's victory.
 4. The highest priority card of the shape chosen for that round wins the trick.
 5. The player who wins the round leads the next round by playing any card.
 6. If a player does not have a card of the same shape or a higher priority shape, they can play any card.
