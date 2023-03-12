@@ -18,20 +18,20 @@ The objective of "Shape Shifters" is to win a predetermined number of points by 
 3. The dealer then asks the following player to choose a decisive shape to make it high priority in cost of winning min 5 points.
 4. The decisive shape will have a higher priority than other shapes for that game. If any player does not choose a shape, the last card will be saved as the shape for that game (in this case 4 points can result in draw).
 5. The next player can also choose to override the decisive shape by betting more points than previous player.
-6. Players can also choose the joker as a shape, which means the normal card priorities will be in effect for that game.
+6. Players can also choose the joker as a shape, which means the normal card priorities will be in effective for that game.
 7. The team that wins the predetermined number of points first wins the game.
-8. The idea behind the game that it's mandetory to play the cards to ensure your team's victory.
 
 ## Gameplay
 1. The player who choosed the color or the player to the left of the dealer starts the game by playing a card.
 2. The other players follow suit by playing cards of the same shape or a higher priority shape if not available.
-3. The highest priority card of the shape chosen for that round wins the trick.
-4. The player who wins the round leads the next round by playing any card.
-5. If a player does not have a card of the same shape or a higher priority shape, they can play any card.
-6. The game continues until all players have played all their cards.
+3. The idea behind the game that it's mandetory to play the cards to ensure your team's victory.
+4. The highest priority card of the shape chosen for that round wins the trick.
+5. The player who wins the round leads the next round by playing any card.
+6. If a player does not have a card of the same shape or a higher priority shape, they can play any card.
+7. The game continues until all players have played all their cards.
 
 ## Scoring
-1. The team that wins the predetermined number of rounds first wins the game.
+1. The team whi choses the decisive shape has equals or more than the predetermined number of points wins the game.
 2. Each round won by a team is worth 1 point.
 3. If a team wins all 8 rounds, they receive a bonus point.
 4. At the end of the team has equal to or more than predetermined no of points will win the game.
